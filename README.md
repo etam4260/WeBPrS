@@ -31,3 +31,6 @@ This is the main webpage with navigation links to programs I am in. Furthermore,
 
 ## Status
 Currently a work in progress. Needs navigation links to other webpages that have more specialized details. Stylistic details are needed.
+
+## Date
+12/26/20
