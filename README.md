@@ -21,16 +21,28 @@ Project is created with:
 The personal website is hosted by University of Maryland, College Park's umd.edu domain and on
 my personal repository. Navigate to google chrome(or some other web browser) and paste this on to the
 search bar and press enter. Otherwise just pull it into your local repository and open it in chrome.
->* http://www.terpconnect.umd.edu/~etam4260/SGC/2021_Emmet_Tam_Portfolio.html
+>* http://www.terpconnect.umd.edu/~etam4260/SGC/2021_Tam_Portfolio.html
 
 ## Pages
 * [2021_Tam_Portfolio.html](#main-page)
+* [2021_Tam_Work.html](#work)
+* [2021_Tam_Research.html](#research)
+* [2021_Tam_Projects.html](#projects)
 
 ### 2021_Tam_Portfolio.html
-This is the main webpage with navigation links to programs I am in. Furthermore, there is more elaboration on my work, research, school, and personal experience than what is apparent on my resume. 
+This is the main webpage with navigation links to other information about myself.
+
+### 2021_Tam_Work.html
+This page has information about my work experience.
+
+### 2021_Tam_Research.html
+This page has information about my research experience.
+
+### 2021_Tam_Projects.html
+This page has information about my personal projects.
 
 ## Status
-Currently a work in progress. Needs navigation links to other webpages that have more specialized details. Stylistic details are needed.
+Currently a work in progress. The other pages beside the hub page need more elaboration and detail. Stylistic details are needed.
 
 ## Date
-12/26/20
+12/28/20
