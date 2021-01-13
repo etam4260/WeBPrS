@@ -9,7 +9,7 @@
 * [Date](#date)
 
 ## General-Info
-This is a hub for my own personalized website information. This is meant for employers and those who want a sneak peak at who I am. There are(will) multiple pages within the website to help convey my research experience, work experience, personal projects, references, and other information about me. 
+This is a hub for my own personalized website information. This is meant for employers and those who want a sneak peak at who I am. There are multiple pages within the website to help convey my research experience, work experience, personal projects, references, and other information about me. 
 
 
 ## Languages
@@ -45,4 +45,4 @@ This page has information about my personal projects.
 Currently a work in progress. The other pages beside the hub page need more elaboration and detail. Stylistic details are needed.
 
 ## Date
-12/28/20
+1/12/21
